@@ -8,4 +8,5 @@ LC 05 - [28. Find the Index of the First Occurrence in a String](https://leetcod
 LC 06 \
 LC 07 \
 LC 08 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) \
-LC 09 - [65. Valid Number](https://leetcode.com/problems/valid-number/submissions/881508643/)
+LC 09 - [65. Valid Number](https://leetcode.com/problems/valid-number/submissions/881508643/) \
+#### LC 10 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/882115434/)
