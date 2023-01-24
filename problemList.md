@@ -13,3 +13,4 @@ LC 10 - [3. Longest Substring Without Repeating Characters](https://leetcode.com
 LC 11 - [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/submissions/882589995/) \
 LC 12 \
 LC 13 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) \
+LC 14 - [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) \
