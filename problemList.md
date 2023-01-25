@@ -14,3 +14,5 @@ LC 11 - [159. Longest Substring with At Most Two Distinct Characters](https://le
 LC 12 \
 LC 13 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) \
 LC 14 - [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) \
+LC 15 - [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) \
+LC 16 - [158. Read N Characters Given read4 II - Call Multiple Times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) 
