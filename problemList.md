@@ -5,8 +5,8 @@ LC 02 - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/
 LC 03 - [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) \
 LC 04 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) \
 LC 05 - [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
-LC 06 \
-LC 07 \
+LC 06 - [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) \
+LC 07 - [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) \
 LC 08 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) \
 LC 09 - [65. Valid Number](https://leetcode.com/problems/valid-number/submissions/881508643/) \
 LC 10 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/882115434/) \
