@@ -1,4 +1,4 @@
-#### Leetcode 227 [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) 
+#### Leetcode 227 [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) 
 O(n) runtime O(n) space
 ```java
 class Solution {
