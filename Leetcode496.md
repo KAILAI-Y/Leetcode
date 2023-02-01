@@ -63,3 +63,30 @@ map.put(key, value);
 map.get(key);
 ```
 
+###### 单调递增
+```java
+public int[] monotoneIncreasingStack(int[] nums){
+    Stack<Integer> stack = new Stack<>();
+    for(int i = 0; i < nums.length; i++){
+        int num = nums[i];
+        while(!stack.empty && num >= stack.peek()){
+            stack.pop();
+        }
+        stack.push(num);
+    }
+}
+```
+
+###### 单调递减
+```java
+public int[] monotoneIncreasingStack(int[] nums){
+    Stack<Integer> stack = new Stack<>();
+    for(int i = 0; i < nums.length; i++){
+        int num = nums[i];
+        while(!stack.empty && num <= stack.peek()){
+            stack.pop();
+        }
+        stack.push(num);
+    }
+}
+
