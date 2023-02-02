@@ -18,6 +18,7 @@ LC 15 - [157. Read N Characters Given Read4](https://leetcode.com/problems/read-
 LC 16 - [158. Read N Characters Given read4 II - Call Multiple Times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) 
 
 ##### Stack
+LC 39 - [155. Min Stack](https://leetcode.com/problems/min-stack/description/) 
 LC 41 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
 Leetcode 227 [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) 
 Leetcode 496 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) 
