@@ -89,4 +89,5 @@ public int[] monotoneIncreasingStack(int[] nums){
         stack.push(num);
     }
 }
+```
 
