@@ -19,6 +19,7 @@ LC 16 - [158. Read N Characters Given read4 II - Call Multiple Times](https://le
 
 ##### Stack
 LC 39 - [155. Min Stack](https://leetcode.com/problems/min-stack/description/) 
+LC 40 - [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) 
 LC 41 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
 Leetcode 227 [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) 
 Leetcode 496 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) 
