@@ -24,3 +24,4 @@ LC 41 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/
 Leetcode 227 [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) 
 Leetcode 496 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) 
 Leetcode 347 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+Leetcode 1047 [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
