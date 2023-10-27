@@ -16,6 +16,9 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
+        # Edge case: if k = len(nums) -> nums
+        # Top k -> Heap
+        # Method count the frequency O(N·logk)
         # Count the frequency of each number using a dictionary
         freq = Counter(nums)
 
