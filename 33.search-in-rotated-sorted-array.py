@@ -18,7 +18,7 @@ class Solution(object):
         # target in left  else: in right
         # Left:
         #  target < [l] or > [m] -> l moves to right else r to left
-        # O
+        # O(logn)
         l, r = 0, len(nums) - 1
 
         while l <= r:
